@@ -15,7 +15,7 @@ Install this plugin in the same environment as Datasette.
 
 ## Usage
 
-Usage instructions go here.
+There are no usage instructions, it simply opens external links in a new tab.
 
 ## Development
 
